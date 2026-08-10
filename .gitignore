@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+logs/*.log
+logs/*.log.*
+data/*.json
+data/notes.txt
+data/*.db
+data/*.db-wal
+data/*.db-shm
+*.sqlite3
+.env
+.vscode/
+.idea/
+
+# Piper / STT models
+models/
+*.onnx
+*.onnx.json

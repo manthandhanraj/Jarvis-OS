@@ -1,0 +1,13 @@
+# JARVIS OS runtime dependencies
+numpy>=1.26
+sounddevice>=0.4.6
+faster-whisper>=1.0.0
+pyttsx3>=2.90
+comtypes>=1.4.1
+pycaw>=20240210
+screen-brightness-control>=0.23.0
+
+# Optional: system-tray icon for the GUI dashboard (Day 14).
+# The dashboard runs fine without these; install only if you want a tray icon.
+# pystray>=0.19.5
+# pillow>=10.0.0
